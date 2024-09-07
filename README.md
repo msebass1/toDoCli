@@ -1,21 +1,18 @@
 ![Screenshot from 2024-09-06 22-24-50](https://github.com/user-attachments/assets/6fa31da4-38ac-4e7b-bba3-b95b22d5a599)
 
-##Task Tracker CLI Tool
+# Task Tracker CLI Tool
 
-#Overview
+## Overview
 
-The Task Tracker CLI Tool is a simple command-line interface built with TypeScript that allows you to manage your tasks efficiently. Whether you need to add, list, delete, or edit tasks, this tool provides an easy way to handle these actions directly from your terminal.
+The Task Tracker CLI Tool is a straightforward command-line interface built with TypeScript for efficient task management. This tool allows you to easily add, list, delete, or edit tasks directly from your terminal.
 
-#Features
+## Features
 
-List Active Tasks: View all your current tasks.
-Add New Task: Quickly add a new task with a description.
-Delete Task: Remove an existing task by its ID.
-Edit Task: Update the description of an existing task.
-
-#Running the CLI Tool
-You can run the CLI tool using npx with ts-node to execute TypeScript files directly:
-
+- **List Active Tasks**: View all your current tasks with their IDs and descriptions.
+- **Add New Task**: Quickly add a new task with a description.
+- **Delete Task**: Remove an existing task using its ID.
+- **Edit Task**: Update the description of an existing task.
+- 
 #List Active Tasks
 bash
 Copy code
